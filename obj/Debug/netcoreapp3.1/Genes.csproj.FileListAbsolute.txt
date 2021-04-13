@@ -1,0 +1,13 @@
+C:\Users\Ryan\CSharpProject\Genes\bin\Debug\netcoreapp3.1\Genes.exe
+C:\Users\Ryan\CSharpProject\Genes\bin\Debug\netcoreapp3.1\Genes.deps.json
+C:\Users\Ryan\CSharpProject\Genes\bin\Debug\netcoreapp3.1\Genes.runtimeconfig.json
+C:\Users\Ryan\CSharpProject\Genes\bin\Debug\netcoreapp3.1\Genes.runtimeconfig.dev.json
+C:\Users\Ryan\CSharpProject\Genes\bin\Debug\netcoreapp3.1\Genes.dll
+C:\Users\Ryan\CSharpProject\Genes\bin\Debug\netcoreapp3.1\Genes.pdb
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.csprojAssemblyReference.cache
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.AssemblyInfoInputs.cache
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.AssemblyInfo.cs
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.dll
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.pdb
+C:\Users\Ryan\CSharpProject\Genes\obj\Debug\netcoreapp3.1\Genes.genruntimeconfig.cache
